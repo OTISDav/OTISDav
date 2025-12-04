@@ -5,8 +5,6 @@
 
 ---
 
-# 👨‍💻 **About Me**
-
 Hi there! I'm **Otis David**, a **Backend Engineer**, **Flutter Developer**, and **AI enthusiast**.  
 I build **scalable backend systems**, **modern Flutter apps**, and **AI-assisted tools** powered by **Gemini**.
 
