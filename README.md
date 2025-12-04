@@ -23,7 +23,7 @@ I build **scalable backend systems**, **modern Flutter apps**, and **AI-assisted
 # 🌐 **Socials**
 
 <p align="left">
-  <a href="[www.linkedin.com/in/david-botcholi-otis](https://www.linkedin.com/in/david-botcholi-otis/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/david-botcholi-otis?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bjs%2Ff79kXRJyMb0Y%2B0dSJuw%3D%3D"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
