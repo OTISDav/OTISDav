@@ -23,7 +23,7 @@ I build **scalable backend systems**, **modern Flutter apps**, and **AI-assisted
 # 🌐 **Socials**
 
 <p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/david-botcholi-otis"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
@@ -33,10 +33,6 @@ I build **scalable backend systems**, **modern Flutter apps**, and **AI-assisted
 ## 🖥️ Backend Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
 ![REST](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=api&logoColor=white)
 
 ## 📱 Mobile Development
@@ -59,7 +55,6 @@ I build **scalable backend systems**, **modern Flutter apps**, and **AI-assisted
 
 ## ⚙️ Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -83,7 +78,7 @@ I build **scalable backend systems**, **modern Flutter apps**, and **AI-assisted
 - Backend API (Django)  
 - Real-time transaction tracking  
 
-👉 *Je peux ajouter les liens si tu les mets sur GitHub.*
+
 
 ---
 
