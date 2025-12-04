@@ -120,12 +120,12 @@ I build **scalable backend systems**, **modern Flutter apps**, and **AI-assisted
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OTISDav&theme=tokyonight&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OTISDav&theme=tokyonight&hide_border=false&layout=compact)
+
 
 ---
 
 # 🏆 GitHub Trophies  
-![Trophies](https://github-profile-trophy.vercel.app/?username=OTISDav&theme=dracula&no-frame=true&margin-w=10)
+
 
 ---
 
