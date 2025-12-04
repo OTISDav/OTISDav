@@ -10,7 +10,7 @@
 Hi there! I'm **Otis David**, a **Backend Engineer**, **Flutter Developer**, and **AI enthusiast**.  
 I build **scalable backend systems**, **modern Flutter apps**, and **AI-assisted tools** powered by **Gemini**.
 
-🔧 Backend & API Architecture (Django / FastAPI)  
+🔧 Backend & API Architecture (Django )  
 📱 Mobile Development (Flutter + Firebase + Gemini AI)  
 🧠 ML beginner working on real-world AI integrations  
 🚀 Currently building **AI-powered mobile & web apps**
